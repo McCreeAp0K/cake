@@ -1,0 +1,14 @@
+# Claude Code / 编辑器本地配置
+.claude/
+.DS_Store
+
+# 构建产物 (Swift / Xcode)
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.swiftpm/
+.build/
+
+# 打包产物 (.app bundle)
+dist/
